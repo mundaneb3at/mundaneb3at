@@ -1,5 +1,5 @@
-I build and run automation that proves it worked: 625 logged AI-dispatch runs, 297/297 citations
-verified, 17 self-checking scheduled tasks. Seeking a paid Sept–Dec placement.
+I direct AI coding agents to build automation that shows it worked: 799 logged agent runs (recounted
+2026-09-17), 297 of 297 source citations checked. Seeking a paid Sept-Dec 2026 placement.
 
 ## Kits — start here
 
