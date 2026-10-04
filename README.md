@@ -1,5 +1,5 @@
 I direct AI coding agents to build automation that shows it worked: 799 logged agent runs (recounted
-2026-09-17), 297 of 297 source citations checked. Seeking a paid Sept-Dec 2026 placement.
+2026-09-17), 297 of 297 source citations checked. Seeking a paid placement.
 
 ## Kits — start here
 
