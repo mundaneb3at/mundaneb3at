@@ -1,3 +1,5 @@
+![Recent work: a 60-second reel that explains its own pipeline, and the sim-maker-kit live demo](assets/hero.png)
+
 I direct AI coding agents to build automation that shows it worked: 799 logged agent runs (recounted
 2026-09-17), 297 of 297 source citations checked. Seeking a paid placement.
 
@@ -10,6 +12,8 @@ I direct AI coding agents to build automation that shows it worked: 799 logged a
 | [sim-maker-kit](https://github.com/mundaneb3at/sim-maker-kit) | Kit + prompt for building single-file, offline HTML study sims with an AI coding assistant · [live demo](https://mundaneb3at.github.io/sim-maker-kit/) |
 
 ## The harness — one tree
+
+![The harness: agent-ops-playbook at the top, then verify, deliver, relay, measure and inspect tools, and three kits](assets/how-it-works.png)
 
 - **[agent-ops-playbook](https://github.com/mundaneb3at/agent-ops-playbook)** — the doctrine: running
   a fleet of AI agents under budgets, verification gates, contract templates, and a failure ledger
